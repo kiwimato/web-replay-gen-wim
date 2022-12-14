@@ -1,17 +1,12 @@
 {
   "site": {
-    "title": "Web Replay Gen Example"
+    "title": "Wim Dacia Ninja"
   },
   "archives": [
     {
-      "name": "Example",
-      "url": "https://replayweb.page/docs/assets/example.wacz",
-      "description": "ReplayWeb.Page web archive example"
-    },
-    {
-      "name": "Twitter",
-      "url": "s3://webrecorder-builds/warcs/netpreserve-twitter.warc",
-      "description": "Netpreserve Twitter web archive example"
+      "name": "wim",
+      "url": "https://wim-dacia-ninja.fra1.digitaloceanspaces.com/crawl-20221214000401898.wacz",
+      "description": "wim website"
     }
   ]
 }
