@@ -1,0 +1,25 @@
+---
+layout: layout.njk
+---
+
+<section class="max-w-screen-md mx-auto">
+  <h1 class="my-4 text-2xl text-center text-neutral-600">
+    Browse Web Archives
+  </h1>
+
+  <main class="p-2">
+    <div class="text-sm text-neutral-400 mb-2">
+      <wrg-archives-count></wrg-archives-count> web archives available.
+      <a href="archives" class="font-semibold underline hover:no-underline"
+        >View all</a
+      >
+    </div>
+
+    <wrg-search></wrg-search>
+  </main>
+</section>
+
+<script type="module-shim">
+  import('./js/wrg-archives-count.js');
+  import('./js/wrg-search.js');
+</script>
