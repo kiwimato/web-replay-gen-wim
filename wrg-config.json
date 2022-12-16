@@ -2,11 +2,6 @@
   "site": {
     "title": "Wim Dacia Ninja"
   },
-  "archives": [
-    {
-      "name": "wim",
-      "url": "https://wim-dacia-ninja.fra1.digitaloceanspaces.com/crawl-20221214000401898.wacz",
-      "description": "wim website"
-    }
-  ]
+  "replay": {"embed":  "replayonly"},
+  "archives": ["https://wim-dacia-ninja.fra1.digitaloceanspaces.com/crawl-20221214000401898.wacz" ]
 }
