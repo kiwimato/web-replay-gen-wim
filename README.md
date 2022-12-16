@@ -1,5 +1,10 @@
-# Web Replay Gen
+### Custom stuff
+Because we only store 1 website and this app does not offer a easy way to directly load a single webpage, there are some custom changes made:
+  * A specific javascript redirect in _site/index.html to the actual /archives/websites
+  * Commented out a lot of unnecessary parts in archives/index.html
 
+
+# Web Replay Gen
 Generate a website for viewing web archives.
 
 :globe_with_meridians: [Live demo](https://webrecorder.github.io/web-replay-gen/)
